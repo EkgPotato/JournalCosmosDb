@@ -1,0 +1,6 @@
+@CosmosJournalApp_HostAddress = http://localhost:5131
+
+GET {{CosmosJournalApp_HostAddress}}/
+Accept: application/json
+
+###
